@@ -1,3 +1,4 @@
+# pdf_reader.py
 import fitz  # PyMuPDF
 
 def extract_text(pdf_file):
